@@ -1,0 +1,6 @@
+name: Application Form
+description: Basic Application submit form for BloomIdea Challenge.
+package: custom 
+type: Module
+version: 1.0
+core: 8.x

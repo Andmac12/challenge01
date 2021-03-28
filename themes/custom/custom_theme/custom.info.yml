@@ -1,0 +1,5 @@
+name: Custom
+type: theme
+core_version_requirement: ^8 || ^9
+description: Custom Theme for the third component of Bloom challenge
+base theme: bootstrap_sass

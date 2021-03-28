@@ -1,0 +1,7 @@
+appform.form:
+  path: '/application-form'
+  defaults: 
+    _title: 'Candidatura'
+    _form: '\Drupal\appform\Form\AppForm'
+  requirements:
+    _access: 'TRUE'
